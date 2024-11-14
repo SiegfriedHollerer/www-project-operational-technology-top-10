@@ -51,3 +51,18 @@ We're currently collecting potential candiates within [the repo](/docs/potential
 sync and/or create mapping
 
 - <https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a>
+
+## List provided by Siegfried
+
+1. Fraud and ransom attempts
+2. DoS
+3. Malware
+4. Impacting confidentiality of data
+5. Illegal access to accounts and data
+
+## ENISA OT threat landscapes
+
+1. Power / energy sector: https://www.enisa.europa.eu/publications/power-sector-dependency?v2=1
+2. Transport sector: https://www.enisa.europa.eu/publications/enisa-transport-threat-landscape?v2=1
+3. Health sector: https://www.enisa.europa.eu/publications/cyber-security-and-resilience-for-smart-hospitals?v2=1
+4. General threat landscape (Figure 8 shows which OT domains are currently more likely affected by attacks): https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024
